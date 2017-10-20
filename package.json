@@ -1,12 +1,16 @@
 {
   "name": "revcom",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "Reverse-complement a DNA sequence",
   "main": "index.js",
   "keywords": [],
   "author": {
     "name": "Markus Hsi-Yang Fritz",
     "email": "markus.h.y.fritz@gmail.com"
+  },
+  "repository" : {
+    "type" : "git",
+    "url" : "https://github.com/mhyfritz/revcom.git"
   },
   "license": "MIT"
 }
